@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE greeting
+<!ELEMENT body (#PCDATA)>
+
+<greeting>	
+    <body>Congratulations!Celebrating our independence in your rule!!</body>
+</greeting>
